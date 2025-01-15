@@ -1,4 +1,4 @@
-Project analyzing traffic patterns in NYC Taxi data in 2023
+Project analyzing traffic patterns in NYC Taxi data in 2023 using pyspark.
 
 The data is sourced from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
